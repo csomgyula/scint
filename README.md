@@ -7,5 +7,5 @@ scaled integer representation
 * knapsack - ?
 * compression - research
 * higher dimension - research
-  * sort, compress (e.g. R-Tree-like)
+  * sort, compress (e.g. similar to R-Tree)
   * adaptive dimension reduction
