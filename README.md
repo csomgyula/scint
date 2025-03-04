@@ -11,4 +11,4 @@ scaled integer representation
 * higher dimension - research
   * sort, compress (e.g. similar to R-Tree)
   * adaptive dimension reduction
-* unique counting - applicability
+* [unique counting](https://en.wikipedia.org/wiki/Count-distinct_problem) - applicability?
