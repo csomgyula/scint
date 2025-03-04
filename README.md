@@ -5,6 +5,7 @@ scaled integer representation
 
 * core - proto
   * integer representation
+  * median, percentile search
   * sorting
 * knapsack - ?
 * research
