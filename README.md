@@ -11,3 +11,4 @@ scaled integer representation
 * higher dimension - research
   * sort, compress (e.g. similar to R-Tree)
   * adaptive dimension reduction
+* unique counting - applicability
