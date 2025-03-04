@@ -7,8 +7,9 @@ scaled integer representation
   * integer representation
   * median, percentile search
   * sorting
-* knapsack - ?
 * research
+  * knapsack
+  * parallel sort
   * compression
   * higher dimension
     * sort, compress (e.g. similar to R-Tree)
