@@ -5,13 +5,13 @@ scaled integer representation
 
 * core - proto
   * integer representation
-  * median, percentile search
+  * median search
   * sorting
 * research
   * knapsack
   * parallel sort
   * compression
   * higher dimension
-    * median, percentile, sort, compress (e.g. similar to R-Tree)
+    * median, sort, compress (e.g. similar to R-Tree)
     * adaptive [dimension reduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction)
   * [unique counting](https://en.wikipedia.org/wiki/Count-distinct_problem) - applicability?
