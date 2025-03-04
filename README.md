@@ -3,7 +3,9 @@ scaled integer representation
 
 ## roadmap
 
-* core: integer representation, sorting - proto
+* core - proto
+  * integer representation
+  * sorting
 * knapsack - ?
 * compression - research
 * higher dimension - research
